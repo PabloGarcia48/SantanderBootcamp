@@ -1,0 +1,10 @@
+#Cursos para mudança de carreira
+
+ - Figma - Udemy (2h - 54 aulas); 100%
+Programador de Software iniciante - IGTI (148h) - 100%
+ - Kotlin - Udemy (35,5h - 241 aulas) - 45%
+ - Kotlin - Bootcamp Santander (80h) - 15%;
+ - CC50 (25h) (Ciências da Computação de Harvard (Link))
+ - Git e GitHub ();
+ - Dart e Flutter - DIO ();
+ - Swift
