@@ -10,4 +10,4 @@ App android nativo de simulação de partidas. Este repositório foi organizado 
       - [release/componentes-layouts-ui-ux-em-apps-android](https://github.com/PabloGarcia48/SantanderBootcamp/tree/release/componentes-layouts-ui-ux-em-apps-android/4_Desenvol_mobile_nativo)
 
 4. Explorando o Firebase Para Apps Android Resilientes
-      - [release/componentes-layouts-ui-ux-em-apps-android](https://github.com/PabloGarcia48/SantanderBootcamp/tree/release/componentes-layouts-ui-ux-em-apps-android/4_Desenvol_mobile_nativo/explorando-o-firebase-para-apps-android-resilientes)
+      - [release/componentes-layouts-ui-ux-em-apps-android](https://github.com/PabloGarcia48/SantanderBootcamp/tree/release/componentes-layouts-ui-ux-em-apps-android/4_Desenvol_mobile_nativo)
