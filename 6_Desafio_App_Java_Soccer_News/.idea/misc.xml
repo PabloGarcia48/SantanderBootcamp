@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Estudos/SantanderBootcamp/6_Desafio_App_Java_Soccer_News/app/src/main/res/drawable/ic_share.xml" value="0.362" />
+        <entry key="..\:/Estudos/SantanderBootcamp/6_Desafio_App_Java_Soccer_News/app/src/main/res/drawable/ic_soccer.xml" value="0.362" />
         <entry key="..\:/Estudos/SantanderBootcamp/6_Desafio_App_Java_Soccer_News/app/src/main/res/layout/activity_main.xml" value="0.30344202898550726" />
         <entry key="..\:/Estudos/SantanderBootcamp/6_Desafio_App_Java_Soccer_News/app/src/main/res/layout/fragment_dashboard.xml" value="0.30344202898550726" />
         <entry key="..\:/Estudos/SantanderBootcamp/6_Desafio_App_Java_Soccer_News/app/src/main/res/layout/fragment_favorites.xml" value="0.30344202898550726" />
